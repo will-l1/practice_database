@@ -1,0 +1,16 @@
+﻿genre_id,genre_name,example_movie,num_movies
+1,Adventure,Raiders of the Lost Ark,"1,118"
+2,Action,Die Hard,"1,247"
+3,Comedy,Blazing Saddles,"2,629"
+4,Drama,Midnight Cowboy,"5,834"
+5,Thriller/Suspense,The Silence of the Lambs,"1,341"
+6,Horror,The Exorcist,851
+7,Romantic Comedy,When Harry Met Sally,686
+8,Musical,The Wizard of Oz,222
+9,Documentary,Night and Fog,"2,625"
+10,Black Comedy,NULL,269
+11,Western,The Searchers,106
+12,Concert/Performance,NULL,99
+13,Multiple Genres,NULL,49
+14,Reality,NULL,6
+15,Educational,NULL,1
